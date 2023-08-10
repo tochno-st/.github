@@ -10,7 +10,7 @@ In this space **you can find our data projects and data itself**. Feel free to u
 The overall goal of the project is to facilitate access to official statistics and promote a data-driven approach to public discussion about Russia.
 
 ## Can I use or reproduce your code or data?
-Yes. All data and articles produced and published by To Be Precise are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). Similarly, all source code that we write is completely open, and made available via GitHub under the permissive [MIT license](https://github.com/owid/owid-grapher/blob/master/LICENSE.md). **Please don't forget to add reference to To Be Precise when using our data**.
+Yes. All data and articles produced and published by To Be Precise are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). Similarly, all source code that we write is completely open, and made available via GitHub under the permissive [MIT license](https://github.com/owid/owid-grapher/blob/master/LICENSE.md). **Please don't forget to reference To Be Precise when using our data**.
 
 ## How to support
 If you also think this is important and believe in data science for social good, support us on [Patreon](https://www.patreon.com/ToBePrecise/about) or [Boosty](https://boosty.to/tochnost). Your regular donation is a contribution to studying and understanding Russia.
