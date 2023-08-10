@@ -1,4 +1,4 @@
-## About us
+## About To Be Precise
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/tochno-st/.github/edit/main/profile/README.md)
 
 There are many prejudices and misinformation about Russia, which can only be dispelled with the help of solid data. The government is making open data less and less accessible, so we have to find alternative solutions.  
