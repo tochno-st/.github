@@ -8,6 +8,7 @@ There are many prejudices and misinformation about Russia, which can only be dis
 In this space **you can find our data projects and data itself**. Feel free to use and collaborate!
 
 <details markdown="1">
+<summary>Find out data and projects!</summary>
 .. my stuff
 </details>
 
