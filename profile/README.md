@@ -3,7 +3,7 @@
 
 There are many prejudices and misinformation about Russia, which can only be dispelled with the help of solid data. The government is making open data less and less accessible, so we have to find alternative solutions.  
 
-[**To Be Precise**](https://tochno.st/) is an independent media and think-tank, where we collect, clean, and upload data sets and data-driven research about social problems in Russia — from HIV, court decisions and homelessness to gender inequality and air pollution. This data can be used for both scholarly analysis and data-storytelling. We think that social data science is one of the most effective tool in understanding and solving social problems, as well as combatting misinformation.
+[**To Be Precise**](https://tochno.st/) is an independent media and think-tank, where we collect, clean, and upload **data sets and data-driven research about social problems in Russia** — from HIV, court decisions and homelessness to gender inequality and air pollution. This data can be used for both scholarly analysis and data-storytelling. We think that social data science is one of the most effective tool in understanding and solving social problems, as well as combatting misinformation.
 
 In this space **you can find our data projects and data itself**. Feel free to use and collaborate!
 
