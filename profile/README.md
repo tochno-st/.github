@@ -8,9 +8,9 @@ There are many prejudices and misinformation about Russia, which can only be dis
 In this space **you can find our data projects and data itself**. Feel free to use and collaborate!
 
 > <details markdown="1">
-<summary>Find data and projects!</summary>
-
-</details>
+> <summary>Find data and projects!</summary>
+>
+> </details>
 
 The overall goal of the project is to facilitate access to official statistics and promote a data-driven approach to public discussion about Russia.
 
