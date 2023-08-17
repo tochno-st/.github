@@ -8,7 +8,7 @@ There are many prejudices and misinformation about Russia, which can only be dis
 In this space **you can find our data projects and data itself**. Feel free to use and collaborate!
 
 Our data and projects:
-- [SUDRFScraper: user-friendly interactive interface to parse court decision](https://github.com/tochno-st/sudrfscraper)
+- [SUDRF Scraper: user-friendly interactive interface to parse court decision](https://github.com/tochno-st/sudrfscraper)
 - [Air pollution in Russian cities since 2007](https://github.com/tochno-st/air_quality_cities)
 - [Objects with a negative environmental impact: pollutants and emissions](https://github.com/tochno-st/onv_register)
 
