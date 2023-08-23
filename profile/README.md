@@ -10,8 +10,6 @@ In this space **you can find our data projects and data itself**. Feel free to u
 Our data and projects:
 - [SUDRF Scraper: user-friendly interactive interface to parse court decision](https://github.com/tochno-st/sudrfscraper)
 - [Air pollution in Russian cities since 2007](https://github.com/tochno-st/air_quality_cities)
-- [Objects with a negative environmental impact: pollutants and emissions](https://github.com/tochno-st/onv_register)
-- [495 socio-economic indicators of Russian regions since 2000](https://github.com/tochno-st/regions_collection)
 
 The overall goal of the project is to facilitate access to official statistics and promote a data-driven approach to public discussion about Russia.
 
