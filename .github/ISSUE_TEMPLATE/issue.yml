@@ -1,0 +1,38 @@
+name: Issue
+description: Создать новую задачу, предложение или запрос
+labels: [ ]
+assignees: [ ]
+
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Тип Issue
+      options:
+        - Feature Request
+        - Improvement
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Описание проблемы
+      description: Опишите проблему, идею или задачу максимально подробно
+      placeholder: Детальное описание...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Предлагаемое решение
+      description: Если есть идеи по реализации — опишите их
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Дополнительная информация
+      description: Ссылки, скриншоты, макеты, примеры и т.д.
