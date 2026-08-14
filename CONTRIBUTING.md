@@ -281,4 +281,4 @@ config files
 
 ---
 
-Остальные политики проекта описаны в [dependency-policy.md](dependency-policy.md).
+Остальные политики проекта описаны в [dependency-policy.md](dependency-policy.md) и [ssh-key-policy.md](ssh-key-policy.md).
